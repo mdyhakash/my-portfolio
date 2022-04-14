@@ -29,7 +29,8 @@ p{
     background-repeat: no-repeat;
 }
 section{
-    height: 800px;
+    height: 900px;
+    padding-left: 1%;
 }
 .link-button{
     text-decoration: none;
